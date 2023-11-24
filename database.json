@@ -1,5 +1,7 @@
 {
-    "golpousers" :[],
+    "general_users" :[
+
+    ],
     "blogs" : [
         {
             "id" : 0,
@@ -257,6 +259,9 @@
               }
             ]
         }
+    ],
+    "user_posts" : [
+
     ],
     "Restora_Foods_Product" :[
       {
