@@ -312,15 +312,6 @@
           "time"      : "12:12"
       },
       {
-          "id"        : 5,
-          "title"     : "Burger OóClock",
-          "price"     : 23.54,
-          "category"  : "Buger",
-          "image"     : "http://localhost:3002/sources/assets/images/burger/Burger-5.jpg",
-          "date"      : "2023-05-02",
-          "time"      : "12:12"
-      },
-      {
           "id"        : 12,
           "title"     : "Pizza OóClock",
           "price"     : 23.54,
@@ -359,34 +350,7 @@
   ],
 
  "Restora_Foods_Orders":[
-    {
-      "name": "Devid Warner",
-      "mobile": "123456878",
-      "email": "devid.warner@gmail.com",
-      "password": "pass",
-      "address": "78/c, Jonas stress",
-      "discountcode": "",
-      "numbersOfProduct": 1,
-      "numbersOfItem": 3,
-      "totalPrice": 70.62,
-      "discount": 0,
-      "discountedPrice": 70.62,
-      "id": 1
-    },
-    {
-      "name": "Devid Warner",
-      "mobile": "123456789",
-      "email": "devid.warner@gmail.com",
-      "password": "password",
-      "address": "78/c, Jonas stress",
-      "discountcode": "1452",
-      "numbersOfProduct": 2,
-      "numbersOfItem": 6,
-      "totalPrice": 141.23,
-      "discount": 0,
-      "discountedPrice": 141.23,
-      "id": 2
-    }
+     
   ],
     
   "Restora_Foods_Gallery" :[
