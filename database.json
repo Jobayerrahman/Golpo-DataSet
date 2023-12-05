@@ -260,6 +260,7 @@
             ]
         }
     ],
+    
     "user_posts" : [
         {
           "fullName": "John Smith",
@@ -277,5 +278,5 @@
           "textarea": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porttitor leo vel nulla posuere accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porttitor leo vel nulla posuere accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porttitor leo vel nulla posuere accumsan. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porttitor leo vel nulla posuere accumsan.",
           "id": 1
         }
-    ],
+    ]
 }
