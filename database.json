@@ -264,6 +264,8 @@
     "user_posts" : [
         {
             "id" : 1,
+            "fullName": "John Smith",
+            "email": "John.Smith@gmail.com",
             "title": "Cyclone Mocha intensifies into 'extremely severe cyclonic storm': IMD.",
             "category": "Nature",
             "describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porttitor leo vel nulla posuere accumsan.",
@@ -296,6 +298,8 @@
         },
         {
             "id" : 2,
+            "fullName": "AF Stave",
+            "email": "af.stave@gmail.com",
             "title": "Twitter vs. Threads: Meta Has the Advantage",
             "category": "Technology",
             "describe":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut porttitor leo vel nulla posuere accumsan.",
